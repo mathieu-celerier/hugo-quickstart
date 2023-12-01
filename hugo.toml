@@ -1,0 +1,4 @@
+baseURL = 'https://mathieu-celerier.github.io/'
+languageCode = 'en-us'
+title = 'Mathieu Celerier'
+theme = 'ananke'
